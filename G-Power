@@ -2,7 +2,7 @@
 <head>
     <title>Series</title>
      <link rel="stylesheet" href="http://s3.amazonaws.com/codecademy-content/courses/ltp/css/bootstrap.css">
-    <link rel="stylesheet" type="text/css" href="https://googledrive.com/host/0B8fj7ytjkoQjelZzN21kVTdGdTA">
+    <link rel="stylesheet" type="text/css" href="Pages.css">
     
 </head>
 <body>
@@ -15,11 +15,11 @@
         <ul class="pull-left">
          
              
-<a href="#"><button class="G-Power-button G-Power-button1">Home</button></a>
-<a href="#"><button class="G-Power-button G-Power-button2">series</button></a>
-<a href="#"><button class="G-Power-button G-Power-button3">M-series</button></a> 
-<a href="#"><button class="G-Power-button G-Power-button4">I-Series</button></a> 
-<a href="#"><button class="G-Power-button G-Power-button5">G-power</button></a> 
+<a href="Home"><button class="G-Power-button G-Power-button1">Home</button></a>
+<a href="Series"><button class="G-Power-button G-Power-button2">series</button></a>
+<a href="M-Series"><button class="G-Power-button G-Power-button3">M-series</button></a> 
+<a href="I-Series"><button class="G-Power-button G-Power-button4">I-Series</button></a> 
+<a href="G-Power"><button class="G-Power-button G-Power-button5">G-power</button></a> 
 </ul>
 <ul class="pull-right">
 <a href="#"><button class="G-Power-button G-Power-button7">Log in</button></a>
