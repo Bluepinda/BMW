@@ -5,7 +5,7 @@
    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
 <script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.9.1/jquery-ui.min.js"></script>
    <link rel="stylesheet" href="http://s3.amazonaws.com/codecademy-content/courses/ltp/css/bootstrap.css">
-   <link rel="stylesheet" type="text/css" href="https://googledrive.com/host/0B5Glty1UcYOfeWpDdkVmREVPTWc">
+   <link rel="stylesheet" type="text/css" href="Home.css">
    
   </head>
 
@@ -18,11 +18,11 @@
         <ul class="pull-left">
          
              
-<a href="#"><button class="button button1">Home</button></a>
-<a href="#"><button class="button button2">Series</button></a>
-<a href="#"><button class="button button3">M-series</button></a> 
-<a href="#"><button class="button button4">I-Series</button></a> 
-<a href="#"><button class="button button5">G-power</button></a> 
+<a href="Home"><button class="button button1">Home</button></a>
+<a href="Series"><button class="button button2">Series</button></a>
+<a href="M-Series"><button class="button button3">M-series</button></a> 
+<a href="I-Series"><button class="button button4">I-Series</button></a> 
+<a href="G-Power"><button class="button button5">G-power</button></a> 
 </ul>
 <ul class="pull-right">
 <a href="#"><button class="button button7">Log in</button></a>
