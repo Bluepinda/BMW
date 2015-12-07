@@ -16,7 +16,7 @@
         <ul class="pull-left">
          
              
-<a href="Home"><button class="M-Series-button M-Series-button1">Home</button></a>
+<a href="index.html"><button class="M-Series-button M-Series-button1">Home</button></a>
 <a href="Series"><button class="M-Series-button M-Series-button2">series</button></a>
 <a href="M-Series"><button class="M-Series-button M-Series-button3">M-series</button></a> 
 <a href="I-Series"><button class="M-Series-button M-Series-button4">I-Series</button></a> 
