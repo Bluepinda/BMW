@@ -15,7 +15,7 @@
         <ul class="pull-left">
          
              
-<a href="Home"><button class="G-Power-button G-Power-button1">Home</button></a>
+<a href="index.html"><button class="G-Power-button G-Power-button1">Home</button></a>
 <a href="Series"><button class="G-Power-button G-Power-button2">series</button></a>
 <a href="M-Series"><button class="G-Power-button G-Power-button3">M-series</button></a> 
 <a href="I-Series"><button class="G-Power-button G-Power-button4">I-Series</button></a> 
